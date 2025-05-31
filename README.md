@@ -1,5 +1,7 @@
 # 🌙 Luna Game Engine
 
+![Luna Banner](https://github.com/user-attachments/assets/1906b717-fff7-4c42-94a6-fdc326cd5c2f)
+
 **Luna** is a modern, cross-platform 2D game engine written in **C++**, featuring support for multiple rendering backends including **Vulkan**, **OpenGL**, and **Direct3D11**. Designed for performance and flexibility, Luna comes with a built-in editor that empowers developers to create, visualize, and iterate on game content in real-time.
 
 ---
@@ -66,8 +68,6 @@ The editor is built using native C++ and integrates seamlessly with the underlyi
 ---
 
 ## 📷 Screenshots
-
-*(Add screenshots or GIFs here to showcase the engine and editor in action)*
 
 ---
 
